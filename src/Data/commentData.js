@@ -25,10 +25,5 @@ export const commentData = {
         },
       ],
     },
-    {
-      id: "6",
-      text: "Hey everyone!",
-      replies: [],
-    },
   ],
 };
